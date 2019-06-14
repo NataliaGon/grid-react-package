@@ -1,0 +1,36 @@
+{
+  "name": "easy-grid-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "peerDependencies": {
+    "react": "^16.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "grid",
+    "gridCSS",
+    "gridLayout"
+  ],
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "react": "^16.8.6",
+    "react-responsive": "^7.0.0",
+    "webpack": "^4.33.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1",
+    "webpack-cli": "^3.3.4"
+  }
+}
